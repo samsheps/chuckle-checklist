@@ -1,0 +1,34 @@
+{
+  "jokes": [
+    {
+      "text": "I told my wife she should embrace her mistakes. She gave me a hug.",
+      "told": false,
+      "id": 1
+    },
+    {
+      "text": "I used to play piano by ear, but now I use my hands.",
+      "told": false,
+      "id": 2
+    },
+    {
+      "text": "I would tell you a joke about a pencil, but it's pointless.",
+      "told": false,
+      "id": 3
+    },
+    {
+      "text": "I'm friends with 25 letters of the alphabet. I don't know y.",
+      "told": false,
+      "id": 4
+    },
+    {
+      "text": "I'm reading a book on anti-gravity. It's impossible to put down.",
+      "told": true,
+      "id": 5
+    },
+    {
+      "text": "I've had a perfectly wonderful evening, but this wasn't it.",
+      "told": true,
+      "id": 6
+    }
+  ]
+}
